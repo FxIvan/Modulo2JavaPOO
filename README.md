@@ -136,6 +136,7 @@ public class Calculadora {
 **Definición:** UML (Unified Modeling Language) es un lenguaje de modelado para representar la estructura de clases y relaciones.
 
 **Ejemplo de diagrama de clase:**
+https://codigofacilito.com/articulos/uml_diagramas_de_clase
 ```
 +----------------+
 |   Animal       |
